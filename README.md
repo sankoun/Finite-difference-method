@@ -1,4 +1,4 @@
-# Finite-difference-method
+# Finite difference method
 Solving partial differential equation by finite difference with implicit numerical schemes
 
-# Volume-difference- method
+# Finite volume method
